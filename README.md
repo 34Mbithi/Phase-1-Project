@@ -20,7 +20,7 @@ Git clone https://github.com/34Mbithi/Phase-1-Project
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git](https://wk3-code-challenge-1-done-6uyz.onrender.com)
 
 ## Technologies used
 HTML
