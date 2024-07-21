@@ -1,0 +1,139 @@
+{
+  "schedule": [
+    {
+      "id": 1,
+      "title": "Cardio",
+      "date": "2024-07-20",
+      "time": "10:00 AM",
+      "attended": false
+    },
+    {
+      "id": 2,
+      "title": "Weight Training",
+      "date": "2024-07-21",
+      "time": "3:00 PM",
+      "attended": false
+    },
+    {
+      "id": 3,
+      "title": "Yoga",
+      "date": "2024-07-22",
+      "time": "6:00 AM",
+      "attended": false
+    },
+    {
+      "id": 4,
+      "title": "Pilates",
+      "date": "2024-07-23",
+      "time": "11:00 AM",
+      "attended": false
+    },
+    {
+      "id": 5,
+      "title": "Crossfit",
+      "date": "2024-07-24",
+      "time": "5:00 PM",
+      "attended": false
+    },
+    {
+      "title": "Yoga",
+      "date": "2024-07-14",
+      "time": "00:28",
+      "id": 6
+    },
+    {
+      "title": "cardio",
+      "date": "2024-07-17",
+      "time": "13:40",
+      "id": 7
+    }
+  ],
+  "membership": [
+    {
+      "id": 1,
+      "plan": "Gold",
+      "rate": "500Ksh per Month",
+      "expires": "2024-12-31"
+    },
+    {
+      "id": 2,
+      "plan": "Silver",
+      "rate": "250Ksh per Month",
+      "expires": "2024-09-30"
+    },
+    {
+      "id": 3,
+      "plan": "Bronze",
+      "rate": "100Ksh per Month",
+      "expires": "2024-11-15"
+    }
+  ],
+  "workout": [
+    {
+      "id": 1,
+      "title": "Cardio",
+      "duration": 30,
+      "intensity": "High",
+      "type": "Cardio",
+      "description": "Short duration, high intensity cardio exercise",
+      "exercises": [
+        "5 pushups",
+        "10 situps",
+        "5 burpees"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Weight Training",
+      "duration": 60,
+      "intensity": "Medium",
+      "type": "Strength",
+      "description": "Weight training focusing on major muscle groups",
+      "exercises": [
+        "10 squats",
+        "10 bench presses",
+        "10 deadlifts"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Yoga",
+      "duration": 45,
+      "intensity": "Low",
+      "type": "Flexibility",
+      "description": "Relaxing yoga session to improve flexibility",
+      "exercises": [
+        "5 sun salutations",
+        "10 downward dogs",
+        "5 child poses"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pilates",
+      "duration": 50,
+      "intensity": "Medium",
+      "type": "Core",
+      "description": "Pilates workout to strengthen the core muscles",
+      "exercises": [
+        "10 leg circles",
+        "10 hundred exercises",
+        "5 roll-ups"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Crossfit",
+      "duration": 40,
+      "intensity": "High",
+      "type": "Crossfit",
+      "description": "High intensity crossfit session",
+      "exercises": [
+        "10 box jumps",
+        "5 pull-ups",
+        "10 kettlebell swings"
+      ]
+    }
+  ],
+  "new_sessions": []
+}

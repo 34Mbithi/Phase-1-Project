@@ -1,0 +1,39 @@
+/* Basic styling for layout */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #f0f0f0; */
+    background-image: url("http://m.gettywallpapers.com/wp-content/uploads/2022/06/Gym-Quotes-Background-Images-1536x864.jpg");
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+
+section {
+    background-color: #fff;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 30%;
+}
+.card{
+    margin-top: 650px;
+}
+h3{
+    color: #fff;
+}
+.form-label{
+    color: #ffffff;
+}
+p{
+    color: #ffffff;
+}
+.card-text{
+    color: black;
+}
