@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     /* background-color: #f0f0f0; */
-    background-image: url("http://m.gettywallpapers.com/wp-content/uploads/2022/06/Gym-Quotes-Background-Images-1536x864.jpg");
+    background-image: black;
 }
 
 header {
@@ -23,16 +23,16 @@ section {
     width: 30%;
 }
 .card{
-    margin-top: 650px;
+    margin-top: 300px;
 }
 h3{
-    color: #fff;
+    color: #070606;
 }
 .form-label{
-    color: #ffffff;
+    color: #e40f0f;
 }
 p{
-    color: #ffffff;
+    color: rgb(250, 16, 16)
 }
 .card-text{
     color: black;
